@@ -8,7 +8,7 @@ https://iris-flower-classifier-bytaufiq.streamlit.app/
 
 ## Application Preview
 
-![App Screenshot](images/app.png)
+![App Screenshot](images/app-preview.png)
 
 ## Technologies
 
